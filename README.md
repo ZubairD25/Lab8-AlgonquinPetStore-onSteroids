@@ -1,7 +1,7 @@
 # Lab8-AlgonquinPetStore-onSteroids
 
 ## Demo Video
-(YoutubeLink)[https://youtu.be/LjPURLOG6C8] 
+[YoutubeLink](https://youtu.be/LjPURLOG6C8) 
 
 ### Azure Managed Services
 For Mongo DB, I believe it would be best to replace with Azure Cosmos DB for MongoDB. It is a managed document database that of course supports MongoDB compatible data and API's. This will reduce the responsibility of managing the database infrastructure. 
